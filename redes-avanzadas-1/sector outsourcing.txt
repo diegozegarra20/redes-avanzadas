@@ -1,0 +1,15 @@
+sector outsourcing
+en este sector contiene:
+RRPP:  
+Direccionamiento IP:192.168.10.10
+Nombre de dispositivo:RRPP
+Vlan ó Vlans configuradas:90
+Servicios de red comprometidos:RRPP
+Capa a la que pertenece, (modelo jerárquico):Acceso
+
+RRH:
+Direccionamiento IP:192.168.20.10
+Nombre de dispositivo:RRHH
+Vlan ó Vlans configuradas:100
+Servicios de red comprometidos:RRHH
+Capa a la que pertenece, (modelo jerárquico):Acceso 

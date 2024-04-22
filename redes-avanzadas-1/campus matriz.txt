@@ -1,0 +1,50 @@
+campus matriz
+en este sector existen 3 host:
+
+Ventas:
+
+Direccionamiento IP: 192.168.100.10 255.255.255.0
+	
+Nombre de dispositivo:Ventas
+	
+Vlan ó Vlans configuradas: vlan 10 
+	
+Servicios de red comprometidos: Ventas
+	
+Capa a la que pertenece, (modelo jerárquico): dispositivo final 
+Procesos:
+Direccionamiento IP: 192.168.100.20 255.255.255.0
+	
+Nombre de dispositivo:Procesos
+	
+Vlan ó Vlans configuradas: vlan 20 
+	
+Servicios de red comprometidos: Procesos
+
+Capa a la que pertenece, (modelo jerárquico): Acceso
+
+Finanzas:
+
+Direccionamiento IP: 192.168.100.30 255.255.255.0
+	
+Nombre de dispositivo:Finanzas
+	
+Vlan ó Vlans configuradas: vlan 30 
+	
+Servicios de red comprometidos: Finanzas
+
+Capa a la que pertenece, (modelo jerárquico): Acceso 
+
+Ventas:
+
+Direccionamiento IP: 192.168.110.10 255.255.255.0
+	
+Nombre de dispositivo:Ventas
+	
+Vlan ó Vlans configuradas: vlan 10
+	
+Servicios de red comprometidos: Ventas
+
+Capa a la que pertenece, (modelo jerárquico): acceso
+	
+

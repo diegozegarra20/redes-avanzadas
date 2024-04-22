@@ -1,0 +1,25 @@
+zone core 
+internet  data:
+
+Direccionamiento IP: 192.168.120.10 255.255.255.0
+	
+Nombre de dispositivo:servidor 
+	
+Vlan ó Vlans configuradas: ninguna 
+	
+Servicios de red comprometidos:servidor (https)
+
+Capa a la que pertenece, (modelo jerárquico): Acceso
+
+internet data 
+
+Direccionamiento IP: 192.168.120.20 255.255.255.0
+	
+Nombre de dispositivo:pc
+	
+Vlan ó Vlans configuradas: ninguna 
+	
+Servicios de red comprometidos:ninguna
+
+Capa a la que pertenece, (modelo jerárquico): Acceso
+
